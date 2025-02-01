@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Ports And Protocols.md",
+                "file": "Networking/Common Methods of Data Transmission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ports And Protocols"
+              "title": "Common Methods of Data Transmission"
             }
           }
         ]
@@ -173,14 +173,24 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
-    "Is sync working.md",
+    "Networking/IT Terms And Definitions.md",
+    "Networking/Common Methods of Data Transmission.md",
+    "Networking/Command Prompt Commands.md",
+    "Untitled 1",
+    "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
+    "Networking/Wireless Standards.md",
+    "Networking/CCST Objective domains.md",
+    "Networking/Network Abbreviations.md",
+    "Networking/DNS.md",
+    "Networking/IPv4 Address Ranges.md",
+    "Screenshot.md",
+    "Welcome.md",
     "Networking/Ports And Protocols.md",
+    "Is sync working.md",
     "Networking",
     "Attachments/Screenshot 2025-02-01 170452.png",
     "Untitled.canvas",
     "New folder/folder note.md",
-    "Welcome.md",
-    "Screenshot.md",
     "Attachments",
     "Untitled",
     "Another folder/test for account.md",
