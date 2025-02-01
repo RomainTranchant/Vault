@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e4e71034fa866f0",
@@ -174,8 +173,9 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
-    "Networking/IT Terms And Definitions.md",
+    "Another folder/test for account.md",
     "Networking/Common Methods of Data Transmission.md",
+    "Networking/IT Terms And Definitions.md",
     "Networking/Command Prompt Commands.md",
     "Untitled 1",
     "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
@@ -194,7 +194,6 @@
     "New folder/folder note.md",
     "Attachments",
     "Untitled",
-    "Another folder/test for account.md",
     "Another folder",
     "New note.md",
     "New folder",
