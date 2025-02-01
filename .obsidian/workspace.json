@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New folder/folder note.md",
+                "file": "Is sync working.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "folder note"
+              "title": "Is sync working"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New folder/folder note.md",
+                "file": "Is sync working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for folder note"
+              "title": "Backlinks for Is sync working"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New folder/folder note.md",
+                "file": "Is sync working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from folder note"
+              "title": "Outgoing links from Is sync working"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New folder/folder note.md",
+                "file": "Is sync working.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of folder note"
+              "title": "Outline of Is sync working"
             }
           }
         ],
@@ -181,13 +181,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "879f5a20286b8908",
   "lastOpenFiles": [
-    "New note.md",
+    "Another folder/test for account.md",
+    "Is sync working.md",
     "New folder/folder note.md",
+    "Another folder",
+    "New note.md",
     "New folder",
     "README.md",
     "2nd new note.md",
