@@ -1,0 +1,11 @@
+{
+  "obsidian-imgur-plugin:imgur-upload-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:toggle-italics": []
+}

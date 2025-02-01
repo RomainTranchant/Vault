@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "github-sync",
-  "obsidian-imgur-plugin"
+  "obsidian-imgur-plugin",
+  "image-converter",
+  "obsidian-image-toolkit"
 ]
