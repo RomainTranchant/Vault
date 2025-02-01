@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Is sync working.md",
+                "file": "Networking/Ports And Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Is sync working"
+              "title": "Ports And Protocols"
             }
           }
         ]
@@ -173,9 +173,11 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
+    "Is sync working.md",
+    "Networking/Ports And Protocols.md",
+    "Networking",
     "Attachments/Screenshot 2025-02-01 170452.png",
     "Untitled.canvas",
-    "Is sync working.md",
     "New folder/folder note.md",
     "Welcome.md",
     "Screenshot.md",
