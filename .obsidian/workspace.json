@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note.md",
+                "file": "New folder/folder note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New note"
+              "title": "folder note"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New note.md",
+                "file": "New folder/folder note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New note"
+              "title": "Backlinks for folder note"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New note.md",
+                "file": "New folder/folder note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New note"
+              "title": "Outgoing links from folder note"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New note.md",
+                "file": "New folder/folder note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New note"
+              "title": "Outline of folder note"
             }
           }
         ],
@@ -186,8 +186,11 @@
   },
   "active": "879f5a20286b8908",
   "lastOpenFiles": [
-    "2nd new note.md",
     "New note.md",
+    "New folder/folder note.md",
+    "New folder",
+    "README.md",
+    "2nd new note.md",
     "Welcome.md"
   ]
 }
