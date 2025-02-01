@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Common Methods of Data Transmission.md",
+                "file": "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Methods of Data Transmission"
+              "title": "Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
-    "Another folder/test for account.md",
+    "Attachments/Screenshot 2025-02-01 170452.png",
     "Networking/Common Methods of Data Transmission.md",
+    "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
+    "Another folder/test for account.md",
     "Networking/IT Terms And Definitions.md",
     "Networking/Command Prompt Commands.md",
     "Untitled 1",
@@ -189,7 +191,7 @@
     "Networking/Ports And Protocols.md",
     "Is sync working.md",
     "Networking",
-    "Attachments/Screenshot 2025-02-01 170452.png",
+    "Attachments/Screenshot 2025-02-01 170452.original",
     "Untitled.canvas",
     "New folder/folder note.md",
     "Attachments",
