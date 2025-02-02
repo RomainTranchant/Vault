@@ -135,38 +135,14 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "1edf69f8f1d3ba4a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Is sync working.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Is sync working"
-            }
-          },
-          {
-            "id": "4b2ff8cec407e4e9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +156,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1d419a896670297d",
+  "active": "aeef759879ed2354",
   "lastOpenFiles": [
     "Attachments/Screenshot 2025-02-01 151531-1.png",
     "Attachments/Screenshot 2025-02-01 151531.png",

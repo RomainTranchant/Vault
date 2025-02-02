@@ -1,8 +1,4 @@
-
-
 This is a tutorial to synchronize your Obsidian vault with your GitHub account
-
-
 # Requirements
 
 - GitHub account
@@ -49,7 +45,9 @@ This is a tutorial to synchronize your Obsidian vault with your GitHub account
 - Go back to your Obsidian vault, download and enable the community plug-ins “Git” and “GitHub sync”
 ![](https://i.imgur.com/Zwss4mo.png)
 
-- Go to the settings page of the GitHub Sync plug-in, and paste the HTTPS URL in the “Remote URL” box
+- Go to the settings page of the GitHub Sync plug-in, and paste the HTTPS URL in the “Remote URL” box and close the settings page
 ![](https://i.imgur.com/yCAAc5Y.png)
 
-- Try clicking the Sync button now, it should work. The first time may prompt you to authenticate if you haven't, or it may ask you to configure git with your email and name.
+- Try clicking the Sync button now, it is the icon located on the left side of the  , it should work. The first time may prompt you to authenticate if you haven't, or it may ask you to configure git with your email and name.
+
+![](https://i.imgur.com/5Qv9d7z.png)
