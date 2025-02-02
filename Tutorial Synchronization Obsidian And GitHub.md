@@ -20,7 +20,7 @@ Writing notes is more straightforward and intuitive than using markup language, 
 - Open GitHub desktop, go to “file” and “add a local repository”
 ![](https://i.imgur.com/c2V4Z18.png)
 
-- Click “choose” find the new vault you just created and click “select folder”
+- Click “choose”, then find the new vault you just created and click “select folder”
 ![](https://i.imgur.com/Np173JW.png)
 
 - Click on “create a repository”, add a README, and click on “create repository”
