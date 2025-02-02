@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial Synchronization Obsidian And GitHub.md",
+                "file": "Tutorial Imgur Sync with Obsidian and GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial Synchronization Obsidian And GitHub"
+              "title": "Tutorial Imgur Sync with Obsidian and GitHub"
             }
           }
         ]
@@ -158,10 +158,11 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
+    "Tutorial Synchronization Obsidian And GitHub.md",
+    "Tutorial Imgur Sync with Obsidian and GitHub.md",
     "Attachments/Screenshot 2025-02-01 151531-1.png",
     "Attachments/Screenshot 2025-02-01 151531.png",
     "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
-    "Tutorial Synchronization Obsidian And GitHub.md",
     "Attachments/Screenshot 2025-02-01 170452.png",
     "Networking/Common Methods of Data Transmission.md",
     "Another folder/test for account.md",
