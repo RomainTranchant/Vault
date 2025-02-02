@@ -135,6 +135,21 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "8e0e49bad458a3a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutorial Synchronization Obsidian And GitHub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tutorial Synchronization Obsidian And GitHub"
+            }
           }
         ],
         "currentTab": 2
