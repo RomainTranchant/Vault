@@ -8,6 +8,7 @@ This is a tutorial to synchronize your Obsidian vault with your GitHub account
 # Walkthrough
 
 - Create a new Obsidian vault
+
     ![](https://i.imgur.com/cjSHnkQ.png)
 
 ![](https://i.imgur.com/s0EKVJC.png)
