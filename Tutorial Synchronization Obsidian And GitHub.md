@@ -1,4 +1,5 @@
-This is a tutorial to synchronize your Obsidian vault with your GitHub account
+This is a tutorial to synchronize your Obsidian vault with your GitHub account.
+Writing notes is more straightforward and intuitive than using markup language, as it allows for quick and efficient capture of thoughts without the need to focus on formatting syntax.
 # Requirements
 
 - GitHub account
