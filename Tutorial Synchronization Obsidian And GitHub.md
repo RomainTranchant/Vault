@@ -12,7 +12,7 @@ This is a tutorial to synchronize your Obsidian vault with your GitHub account
     ![](https://i.imgur.com/cjSHnkQ.png)
 
 ![](https://i.imgur.com/s0EKVJC.png)
-- Create a new note as an example
+- Create a new note as an example in the new vault
 
 ![](https://i.imgur.com/Sijeghx.png)
 
