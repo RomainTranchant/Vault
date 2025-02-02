@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
+                "file": "Tutorial Synchronization Obsidian And GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake"
+              "title": "Tutorial Synchronization Obsidian And GitHub"
             }
           }
         ]
@@ -150,14 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Is sync working"
             }
+          },
+          {
+            "id": "4b2ff8cec407e4e9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +180,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aeef759879ed2354",
+  "active": "1d419a896670297d",
   "lastOpenFiles": [
+    "Attachments/Screenshot 2025-02-01 151531-1.png",
+    "Attachments/Screenshot 2025-02-01 151531.png",
+    "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
+    "Tutorial Synchronization Obsidian And GitHub.md",
     "Attachments/Screenshot 2025-02-01 170452.png",
     "Networking/Common Methods of Data Transmission.md",
-    "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
     "Another folder/test for account.md",
     "Networking/IT Terms And Definitions.md",
     "Networking/Command Prompt Commands.md",
