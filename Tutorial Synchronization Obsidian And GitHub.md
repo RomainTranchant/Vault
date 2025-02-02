@@ -35,7 +35,7 @@ This is a tutorial to synchronize your Obsidian vault with your GitHub account
 - Click on “publish repository”, select private or public, and “Publish repository”
 ![](https://i.imgur.com/JGyMJbM.png)
 
-- Click on Fetch origin
+- Click on Fetch origin to push the changes to your account
     
 - Go to your GitHub account and you will see the new repository
 ![](https://i.imgur.com/53OYpGw.png)
