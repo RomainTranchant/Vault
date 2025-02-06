@@ -26,5 +26,3 @@ Any IPv4 address that is not part of the above private ranges. These addresses a
 | 169.254.0.0 to 169.254.255.255 | Link-local addresses, automatically assigned when a device cannot obtain an IP address from a DHCP server (APIPA Address) |
 | 224.0.0.0 to 239.255.255.255   | Multicast addresses, used for one-to-many communication                                                                   |
 | 240.0.0.0 to 255.255.255.254   | Reserved for future use, research, and development                                                                        |
-
-

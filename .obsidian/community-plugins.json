@@ -9,5 +9,6 @@
   "editor-width-slider",
   "dataview",
   "automatic-table-of-contents",
-  "image-converter"
+  "image-converter",
+  "highlightr-plugin"
 ]
