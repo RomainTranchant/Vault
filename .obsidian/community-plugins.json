@@ -7,6 +7,7 @@
   "obsidian-tasks-plugin",
   "obsidian-style-settings",
   "editor-width-slider",
-  "obsidian-plugin-toc",
-  "dataview"
+  "dataview",
+  "automatic-table-of-contents",
+  "image-converter"
 ]
