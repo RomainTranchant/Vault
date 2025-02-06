@@ -1,5 +1,12 @@
 [
   "obsidian-git",
   "github-sync",
-  "obsidian-imgur-plugin"
+  "obsidian-imgur-plugin",
+  "table-editor-obsidian",
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-style-settings",
+  "editor-width-slider",
+  "obsidian-plugin-toc",
+  "dataview"
 ]

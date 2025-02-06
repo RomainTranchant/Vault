@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial Synchronization Obsidian And GitHub.md",
+                "file": "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial Synchronization Obsidian And GitHub"
+              "title": "Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite)"
             }
           }
         ]
@@ -168,28 +168,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
+    "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
+    "New note.md",
+    "Networking/Common Methods of Data Transmission.md",
+    "Networking/Command Prompt Commands.md",
+    "Networking/CCST Objective domains.md",
+    "Networking/IPv4 Address Ranges.md",
+    "Networking/DNS.md",
     "Tutorial Imgur Sync with Obsidian.md",
     "Tutorial Synchronization Obsidian And GitHub.md",
     "Attachments/Screenshot 2025-02-01 151531-1.png",
     "Attachments/Screenshot 2025-02-01 151531.png",
     "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
     "Attachments/Screenshot 2025-02-01 170452.png",
-    "Networking/Common Methods of Data Transmission.md",
     "Another folder/test for account.md",
     "Networking/IT Terms And Definitions.md",
-    "Networking/Command Prompt Commands.md",
     "Untitled 1",
-    "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
     "Networking/Wireless Standards.md",
-    "Networking/CCST Objective domains.md",
     "Networking/Network Abbreviations.md",
-    "Networking/DNS.md",
-    "Networking/IPv4 Address Ranges.md",
     "Screenshot.md",
     "Welcome.md",
     "Networking/Ports And Protocols.md",
@@ -201,7 +204,6 @@
     "Attachments",
     "Untitled",
     "Another folder",
-    "New note.md",
     "New folder",
     "README.md",
     "2nd new note.md"

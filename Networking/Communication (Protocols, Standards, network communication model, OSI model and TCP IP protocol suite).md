@@ -50,4 +50,3 @@ The most widely known internetwork reference model was created by the OSI projec
 - **2 - Transport Layer**: This layer manages end-to-end communication between devices. The most common protocols here are TCP (Transmission Control Protocol) and UDP (User Datagram Protocol). TCP ensures reliable, ordered delivery of data, while UDP is faster but doesn't guarantee delivery.
 - **3 - Internet Layer**: This layer is responsible for routing data between different networks. The key protocol is IP (Internet Protocol), which assigns addresses to devices and handles the forwarding of packets. Other protocols in this layer include ICMP (for error messages) and ARP (for resolving addresses).
 - **4 - Link Layer**: This layer is responsible for the physical transmission of data on the network. It handles how data is transmitted over a particular medium (like Ethernet or Wi-Fi) and includes protocols for hardware addressing (e.g., MAC addresses) and error detection.
-
