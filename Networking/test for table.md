@@ -10,4 +10,4 @@
 
 
 # header 2
-![|419x419](https://i.imgur.com/ljlcftu.png)
+![|191x191](https://i.imgur.com/ljlcftu.png)
