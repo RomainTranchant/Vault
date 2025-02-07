@@ -1,10 +1,10 @@
-1. [head1](#head1)
-	1. [head2](#head2)
-		1. [head 3](#head-3)
+1. [[#head1|head1]]
+	1. [[#head1#head2|head2]]
+		1. [[#head2#head3|head3]]
 
 # head1
-cefew
+abrlbn
 ## head2
-fewfwe
-### hewfeaevwd 3
-fewfweg
+lkadvnvc
+### head3
+vwev
