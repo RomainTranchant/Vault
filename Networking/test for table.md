@@ -1,6 +1,8 @@
-- [2nd header](#2nd-header)
-	- [3rd heaer](#3rd-heaer)
+1. [head1](#head1)
+	1. [head2](#head2)
+		1. [head 3](#head-3)
 
-# 1st header
-## 2nd header
-### 3rd heaer
+# head1
+
+## head2
+### head 3
