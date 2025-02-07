@@ -8,7 +8,7 @@
   "obsidian-style-settings",
   "editor-width-slider",
   "dataview",
-  "automatic-table-of-contents",
   "image-converter",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-plugin-toc"
 ]
