@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Ping Command.md",
+                "file": "Networking/test for table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ping Command"
+              "title": "test for table"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6e4e71034fa866f0",
@@ -186,8 +185,9 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
-    "Networking/Ports And Protocols.md",
     "Networking/Ping Command.md",
+    "Networking/test for table.md",
+    "Networking/Ports And Protocols.md",
     "Networking/Command Prompt Commands.md",
     "Networking/IPv4 Address Ranges.md",
     "Networking/IT Terms And Definitions.md",
