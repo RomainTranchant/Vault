@@ -1,5 +1,4 @@
-```table-of-contents
-```
+
 # The ping Command
 
 Probably the most commonly used network utility is ping. Most IP enabled devices support some form of the **ping** command in order to test whether or not network devices are reachable through the IP network.
