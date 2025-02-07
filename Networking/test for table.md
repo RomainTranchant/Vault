@@ -1,7 +1,6 @@
-- [[#head1|head1]]
-- [[#header 2|header 2]]
+```table-of-contents
+```
+# h1
 
-
-### head1
-## header 2
+## head2
 
