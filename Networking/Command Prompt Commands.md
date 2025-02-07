@@ -85,7 +85,7 @@ Here's a list of 50 Command Prompt commands along with more detailed real-life u
     - Example: `prompt $G`
     - **Usage**: This command changes the Command Prompt prompt to `>`. It's useful for customizing the appearance of the command line interface to your preference.
 29. **set**:
-    - Example: `set PATH=C:\\NewPath;%PATH%`
+    - Example: `set PATH=C:\NewPath;%PATH%`
     - **Usage**: This command adds "C:\NewPath" to the system PATH environment variable. It's useful for configuring the environment to include directories where your executable files are located.
 30. **color**:
     - Example: `color 1E`
@@ -106,13 +106,13 @@ Here's a list of 50 Command Prompt commands along with more detailed real-life u
     - Example: `wmic process list brief`
     - **Usage**: This command lists brief information about all running processes. It's like viewing process details in Task Manager via the command line.
 36. **reg** (Registry):
-    - Example: `reg query HKEY_LOCAL_MACHINE\\Software`
+    - Example: `reg query HKEY_LOCAL_MACHINE\Software`
     - **Usage**: This command queries the registry for keys and values under Software. It's useful for managing the Windows Registry.
 37. **cacls** (Change Access Control Lists):
     - Example: `cacls file.txt /G username:F`
     - **Usage**: This command grants full control permission to "username" for "file.txt". It's useful for managing file permissions.
 38. **cipher**:
-    - Example: `cipher /e /s:C:\\SensitiveData`
+    - Example: `cipher /e /s:C:\SensitiveData`
     - **Usage**: This command encrypts the SensitiveData directory and its contents. It's useful for protecting sensitive information.
 39. **tree**:
     - Example: `tree /F`
