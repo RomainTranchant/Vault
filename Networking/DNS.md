@@ -33,7 +33,7 @@ Local DNS cache stores DNS query results temporarily to speed up subsequent requ
     
     ![https://i.imgur.com/3lE4JRK.png](https://i.imgur.com/3lE4JRK.png)
     
-3. **View Cache**: Use the command `ipconfig /displaydns` to observe the current cache. You can use the command `ipconfig /displaydns > dns.txt Open the notepad with the command` notepad dns.txt
+3. **View Cache**: Use the command `ipconfig /displaydns` to observe the current cache. You can use the command `ipconfig /displaydns > dns.txt `Open the notepad with the command` notepad dns.txt
     
 4. **Flush Cache**: Clear the local DNS cache using `ipconfig /flushdns`.
     
