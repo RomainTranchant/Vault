@@ -1,7 +1,7 @@
 Here's a list of 50 Command Prompt commands along with more detailed real-life usage examples:
 
 1. **cd** (Change Directory):
-    - Example: `cd C:\\Users\\YourName\\Documents`
+    - Example: `cd C:\Users\YourName\Documents`
     - **Usage**: This command changes the current directory to the specified path. For example, if you are currently in the root directory (C:\) and you want to navigate to the Documents folder within your user directory, you would use this command. It helps you move around the filesystem.
 2. **dir** (Directory):
     - Example: `dir`
@@ -13,7 +13,7 @@ Here's a list of 50 Command Prompt commands along with more detailed real-life u
     - Example: `copy file1.txt file2.txt`
     - **Usage**: This command copies the contents of "file1.txt" to a new file named "file2.txt". If "file2.txt" does not exist, it will be created. If it does exist, i contents will be overwritten.
 5. **move**:
-    - Example: `move file1.txt D:\\\\Backup\\file1.txt`
+    - Example: `move file1.txt D:\Backup\file1.txt`
     - **Usage**: This command moves "file1.txt" to the Backup directory on drive D. It's like cutting a file from one location and pasting it into another.
 6. **del** (Delete):
     - Example: `del file1.txt`
@@ -40,10 +40,10 @@ Here's a list of 50 Command Prompt commands along with more detailed real-life u
     - Example: `attrib +r file.txt`
     - **Usage**: This command sets the read-only attribute for "file.txt". You can also use `attrib -r file.txt` to remove the read-only attribute. This is useful for managing file permissions.
 14. **xcopy**:
-    - Example: `xcopy C:\\Source D:\\Destination /E`
+    - Example: `xcopy C:\Source D:\Destination /E`
     - **Usage**: This command copies directories and subdirectories from Source to Destination, including empty directories. It's useful for copying entire directory structures.
 15. **robocopy**:
-    - Example: `robocopy C:\\Source D:\\Destination /MIR`
+    - Example: `robocopy C:\Source D:\Destination /MIR`
     - **Usage**: This command performs a robust copy of directories and files, mirroring the Source directory to the Destination. It's a powerful tool for creating backups or synchronizing directories.
 16. **tasklist**:
     - Example: `tasklist`
@@ -127,16 +127,16 @@ Here's a list of 50 Command Prompt commands along with more detailed real-life u
     - Example: `more file.txt`
     - **Usage**: This command displays the contents of "file.txt" one page at a time. It's handy for reading long files in the Command Prompt without scrolling.
 43. **replace**:
-    - Example: `replace newfile.txt C:\\TargetDirectory`
+    - Example: `replace newfile.txt C:\TargetDirectory`
     - **Usage**: This command replaces the files in TargetDirectory with "newfile.txt". It's useful for updating files in bulk.
 44. **subst**:
-    - Example: `subst Z: C:\\Users\\YourName\\Documents`
+    - Example: `subst Z: C:\Users\YourName\Documents`
     - **Usage**: This command maps the Documents directory to the drive letter Z. It's useful for quick access to frequently used directories.
 45. **pause**:
     - Example: `pause`
     - **Usage**: This command pauses the execution of a batch file and displays the message "Press any key to continue...". It's useful for debugging batch files or adding a break in the script.
 46. **compact**:
-    - Example: `compact /c /s:C:\\Folder`
+    - Example: `compact /c /s:C:\Folder`
     - **Usage**: This command compresses files and directories in "C:\Folder" to save disk space. It's useful for managing disk space on NTFS drives.
 47. **diskpart**:
     - Example: `diskpart`
