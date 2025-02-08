@@ -46,18 +46,18 @@ Local DNS cache stores DNS query results temporarily to speed up subsequent requ
 
 A CNAME Record maps an alias of one domain to another domain:
 
-6. **Create CNAME Record**: On your DC, create a CNAME record that points the host "search" to "[www.google.com](http://www.google.com/)".
+1. **Create CNAME Record**: On your DC, create a CNAME record that points the host "search" to "[www.google.com](http://www.google.com/)".
     
     ![https://i.imgur.com/s2X2Jt8.png](https://i.imgur.com/s2X2Jt8.png)
     
 
 ![https://i.imgur.com/tk5DpC0.png](https://i.imgur.com/tk5DpC0.png)
 
-7. **Verify Alias**: From the client machine, ping "search" and observe it resolves to "[www.google.com](http://www.google.com/)".
+2. **Verify Alias**: From the client machine, ping "search" and observe it resolves to "[www.google.com](http://www.google.com/)".
     
     ![https://i.imgur.com/in4jymh.png](https://i.imgur.com/in4jymh.png)
     
-8. **Check CNAME Resolution**: Use `nslookup` to query "search" and see the CNAME mapping to "[www.google.com](http://www.google.com/)".
+3. **Check CNAME Resolution**: Use `nslookup` to query "search" and see the CNAME mapping to "[www.google.com](http://www.google.com/)".
     
 
 ![https://i.imgur.com/kysgvkZ.png](https://i.imgur.com/kysgvkZ.png)
