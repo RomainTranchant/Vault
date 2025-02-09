@@ -17,7 +17,7 @@ PaaS is used primarily by software developers. PaaS allows developers to focus o
 
 Some examples if PaaS services include:
 - Microsoft Azure
-- Saleforce Lightning
+- Salesforce Lightning
 - AWS Lambda
 - AWS Elastic Beanstalk
 - Google App Engine
