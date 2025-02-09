@@ -2,5 +2,7 @@
   "theme": "obsidian",
   "textFontFamily": "Arial",
   "nativeMenus": false,
-  "cssTheme": ""
+  "cssTheme": "",
+  "accentColor": "#8652ff",
+  "baseFontSize": 14
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/DNS.md",
+                "file": "Networking/Network Cloud Services and Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "Network Cloud Services and Applications"
             }
           }
         ]
@@ -185,19 +185,20 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
+    "Networking/Seven-Step Troubleshooting Process.md",
+    "Networking/Network Cloud Services and Applications.md",
+    "Networking/Network Abbreviations.md",
+    "Networking/Ping Command.md",
+    "Networking/DNS.md",
     "Networking/Command Prompt Commands.md",
     "Networking/CCST Objective domains.md",
     "Networking/Common Methods of Data Transmission.md",
     "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
     "Networking/Wireless Standards.md",
     "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
-    "Networking/Seven-Step Troubleshooting Process.md",
     "Networking/IT Terms And Definitions.md",
-    "Networking/Network Abbreviations.md",
     "Networking/IPv4 Address Ranges.md",
     "Attachments/Screenshot 2025-02-07 205746.png",
-    "Networking/DNS.md",
-    "Networking/Ping Command.md",
     "Networking/Ports And Protocols.md",
     "Attachments/Ping-logo.png",
     "Networking/test for table.md",
