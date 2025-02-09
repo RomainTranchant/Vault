@@ -56,72 +56,9 @@ Finally, the DHCP server sends a **DHCP Acknowledgment** message to confirm that
 |**Step 3**|DHCP Request|The client requests the offered IP address and network configuration.|
 |**Step 4**|DHCP Acknowledgment|The DHCP server sends an acknowledgment, finalizing the assignment.|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## DHCP Lease Renewal Process
 
 One of the key aspects of dynamic IP addressing through DHCP is the **lease renewal process**. When a client device receives an IP address from the DHCP server, it doesn't have that IP address permanently; instead, the address is leased to the client for a specific period of time. When the lease is about to expire, the client needs to renew the lease to continue using the same IP address or request a new one.
-
 Here’s how the lease renewal process works:
 
 ### 1. **T1 Timer: Requesting Lease Renewal**
@@ -143,7 +80,39 @@ If the client does not receive a response from the server before the **T2 timer*
 
 This process ensures that the device continues to operate on the network without interruption and can maintain connectivity until a new lease is acquired or extended.
 
-![dhcp-pic.jpg](attachment:8237c5d8-fef1-41e7-be68-56b1941df754:dhcp-pic.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

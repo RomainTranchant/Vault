@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Network Cloud Services and Applications.md",
+                "file": "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Cloud Services and Applications"
+              "title": "Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake"
             }
           }
         ]
@@ -157,8 +157,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "af476d194fca07a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -177,6 +191,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -185,28 +200,27 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
-    "Networking/Command Prompt Commands.md",
-    "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
-    "Networking/test.md",
-    "Networking/test.md",
-    "Networking/Network Cloud Services and Applications.md",
     "Networking/Seven-Step Troubleshooting Process.md",
-    "Networking/IPv4 Address Ranges.md",
-    "Networking/Network Abbreviations.md",
-    "Networking/Ping Command.md",
-    "Networking/DNS.md",
+    "Networking/Wireless Standards.md",
+    "Tutorial Synchronization Obsidian And GitHub.md",
+    "Tutorial Imgur Sync with Obsidian.md",
     "Networking/CCST Objective domains.md",
     "Networking/Common Methods of Data Transmission.md",
-    "Networking/Wireless Standards.md",
-    "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
+    "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
+    "Networking/DNS.md",
+    "Networking/IPv4 Address Ranges.md",
     "Networking/IT Terms And Definitions.md",
-    "Attachments/Screenshot 2025-02-07 205746.png",
+    "Networking/Network Abbreviations.md",
+    "Networking/Network Cloud Services and Applications.md",
+    "Networking/Ping Command.md",
     "Networking/Ports And Protocols.md",
+    "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
+    "Networking/Command Prompt Commands.md",
+    "Networking/test.md",
+    "Attachments/Screenshot 2025-02-07 205746.png",
     "Attachments/Ping-logo.png",
     "Networking/test for table.md",
     "New note.md",
-    "Tutorial Imgur Sync with Obsidian.md",
-    "Tutorial Synchronization Obsidian And GitHub.md",
     "Attachments/Screenshot 2025-02-01 151531-1.png",
     "Attachments/Screenshot 2025-02-01 151531.png",
     "Attachments/Screenshot 2025-02-01 170452.png",
@@ -222,7 +236,6 @@
     "Attachments",
     "Untitled",
     "Another folder",
-    "New folder",
-    "README.md"
+    "New folder"
   ]
 }
