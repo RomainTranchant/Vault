@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "6e4e71034fa866f0",
@@ -186,16 +185,18 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
+    "Networking/Command Prompt Commands.md",
+    "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
+    "Networking/test.md",
+    "Networking/test.md",
+    "Networking/Network Cloud Services and Applications.md",
     "Networking/Seven-Step Troubleshooting Process.md",
     "Networking/IPv4 Address Ranges.md",
-    "Networking/Network Cloud Services and Applications.md",
     "Networking/Network Abbreviations.md",
     "Networking/Ping Command.md",
     "Networking/DNS.md",
-    "Networking/Command Prompt Commands.md",
     "Networking/CCST Objective domains.md",
     "Networking/Common Methods of Data Transmission.md",
-    "Networking/Communication (Protocols, Standards, network communication model, OSI model and TCP IP protocol suite).md",
     "Networking/Wireless Standards.md",
     "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
     "Networking/IT Terms And Definitions.md",
@@ -222,7 +223,6 @@
     "Untitled",
     "Another folder",
     "New folder",
-    "README.md",
-    "2nd new note.md"
+    "README.md"
   ]
 }

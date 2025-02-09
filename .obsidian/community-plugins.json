@@ -11,5 +11,6 @@
   "image-converter",
   "highlightr-plugin",
   "dynamic-outline",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "codeblock-customizer"
 ]
