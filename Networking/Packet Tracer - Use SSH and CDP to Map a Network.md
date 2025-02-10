@@ -23,9 +23,12 @@ The `-L` option in the SSH command binds a local port to a remote port. This is 
 ![|719x533](https://i.imgur.com/CZ7bjMY.png)
 
 Use the show ip interface brief and show interfaces commands to document the Edge1 router’s physical interfaces, IP addresses, and subnet masks in the Addressing Table.
+
 ![](https://i.imgur.com/1rV3DGM.png)
 
+
 We can update the addressing table
+
 ![](https://i.imgur.com/nw3mmpe.png)
 
 ![](https://i.imgur.com/CMjgEyh.png)
@@ -53,8 +56,10 @@ So, the subnet mask for **192.168.3.249/29** is **255.255.255.248**.
 # Part 2: Use CDP to Discover Neighboring Devices
 You are now remotely connected to the Branch-Edge router. Using CDP, begin looking for connected network devices.
 Security best practice recommends only running CDP when needed, so CDP may need to be turned on. Use the` show cdp` command to display its status.
+
 Branch-Edge# show cdp
 % CDP is not enabled
+
 ![](https://i.imgur.com/J2HBixI.png)
 
   You need to turn on CDP, but it is a good idea to only broadcast CDP information to internal network devices and not to external networks. To do this, turn on the CDP protocol and then disable CDP on the S0/0/1 interface.
