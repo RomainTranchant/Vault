@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Packet Tracer - Use CDP to Map a Network.md",
+                "file": "Networking/Packet Tracer - Use SSH and CDP to Map a Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packet Tracer - Use CDP to Map a Network"
+              "title": "Packet Tracer - Use SSH and CDP to Map a Network"
             }
           }
         ]
@@ -213,7 +213,7 @@
     "Attachments/image-16.png",
     "Attachments/image-15.png",
     "Networking/Network Cloud Services and Applications.md",
-    "Networking/Packet Tracer - Use CDP to Map a Network.md",
+    "Networking/Packet Tracer - Use SSH and CDP to Map a Network.md",
     "Networking/Ping Command.md",
     "Networking/Ports And Protocols.md",
     "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",

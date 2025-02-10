@@ -116,6 +116,7 @@ Use the `ssh` command on 192.168.4.132 and use the` show cdp neighbors` command,
 We are at the end of the network, we are not discovering new devices
 
 The updated addressing table
+
 ![](https://i.imgur.com/zGNfgnh.png)
 
 Draw a topology of the Remote Branch Office network using the information you have gathered using CDP.
