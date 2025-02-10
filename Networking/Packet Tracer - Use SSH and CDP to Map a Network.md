@@ -74,6 +74,7 @@ Branch-Edge(config-if)# exit
 
 Issue a `show cdp neighbors` command to find any neighboring network devices.
 Note: CDP will only show connected Cisco devices that are also running CDP.
+
 ![|490x94](https://i.imgur.com/cNb0RmJ.png)
 
 Is there a neighboring network device? What type of device is it? What is its name? On what interface is it connected? Is the device’s IP address listed? Record the information in the Addressing Table.
@@ -82,7 +83,9 @@ Is there a neighboring network device? What type of device is it? What is its na
 To find the IP address of the neighboring device use the` show cdp neighbors detail` command and record the ip address:
 ![](https://i.imgur.com/403ldJr.png)
 
+
 We can update the addressing table
+
 ![](https://i.imgur.com/P3qqCKd.png)
 
 Now that you know the IP address of the neighbor device, connect to it with SSH in order to discover other devices that may be its neighbors.
