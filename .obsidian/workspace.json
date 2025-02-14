@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Packet Tracer - Use SSH and CDP to Map a Network.md",
+                "file": "Networking/Help Desk  Etiquette.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packet Tracer - Use SSH and CDP to Map a Network"
+              "title": "Help Desk  Etiquette"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "6e4e71034fa866f0",
@@ -201,19 +200,22 @@
   },
   "active": "aeef759879ed2354",
   "lastOpenFiles": [
+    "Attachments/image-32.png",
+    "Attachments/image-31.png",
+    "Attachments/image-30.png",
+    "Attachments/image-29.png",
+    "Networking/Packet Tracer - Use SSH and CDP to Map a Network.md",
+    "Networking/Help Desk  Etiquette.md",
+    "Networking/PCT.md",
+    "Attachments/image-28.png",
+    "Networking/Packet Tracer 1.2.13 - Troubleshooting Challenge - Document the Network.md",
+    "Attachments/image-27.png",
+    "Attachments/image-26.png",
     "Attachments/image-25.png",
     "Attachments/image-24.png",
     "Attachments/image-23.png",
     "Attachments/image-22.png",
-    "Attachments/image-21.png",
-    "Attachments/image-20.png",
-    "Attachments/image-19.png",
-    "Attachments/image-18.png",
-    "Attachments/image-17.png",
-    "Attachments/image-16.png",
-    "Attachments/image-15.png",
     "Networking/Network Cloud Services and Applications.md",
-    "Networking/Packet Tracer - Use SSH and CDP to Map a Network.md",
     "Networking/Ping Command.md",
     "Networking/Ports And Protocols.md",
     "Networking/Understanding DHCP, Static vs. Dynamic, and the 4-Way Handshake.md",
@@ -235,12 +237,9 @@
     "Another folder/test for account.md",
     "Untitled 1",
     "Screenshot.md",
-    "Welcome.md",
-    "Is sync working.md",
     "Networking",
     "Attachments/Screenshot 2025-02-01 170452.original",
     "Untitled.canvas",
-    "New folder/folder note.md",
     "Attachments",
     "Untitled",
     "Another folder",
