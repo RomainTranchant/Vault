@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Help Desk  Etiquette.md",
+                "file": "Networking/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Help Desk  Etiquette"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9cfb4013f71784cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Devices as Sources Of Network Information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Devices as Sources Of Network Information"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,14 +213,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "aeef759879ed2354",
+  "active": "1d419a896670297d",
   "lastOpenFiles": [
+    "Attachments/image-33.png",
+    "Networking/Untitled.md",
+    "Networking/Network Devices as Sources Of Network Information.md",
+    "Networking/Help Desk Etiquette.md",
     "Attachments/image-32.png",
     "Attachments/image-31.png",
     "Attachments/image-30.png",
     "Attachments/image-29.png",
     "Networking/Packet Tracer - Use SSH and CDP to Map a Network.md",
-    "Networking/Help Desk  Etiquette.md",
     "Networking/PCT.md",
     "Attachments/image-28.png",
     "Networking/Packet Tracer 1.2.13 - Troubleshooting Challenge - Document the Network.md",
@@ -214,7 +232,6 @@
     "Attachments/image-25.png",
     "Attachments/image-24.png",
     "Attachments/image-23.png",
-    "Attachments/image-22.png",
     "Networking/Network Cloud Services and Applications.md",
     "Networking/Ping Command.md",
     "Networking/Ports And Protocols.md",
@@ -234,9 +251,7 @@
     "Networking/test.md",
     "Networking/test for table.md",
     "New note.md",
-    "Another folder/test for account.md",
     "Untitled 1",
-    "Screenshot.md",
     "Networking",
     "Attachments/Screenshot 2025-02-01 170452.original",
     "Untitled.canvas",
