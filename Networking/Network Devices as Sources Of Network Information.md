@@ -17,6 +17,6 @@ Context-sensitive help enables the user quickly find answers to these questions:
 - Which commands start with specific characters or group of characters?
 - Which arguments and keywords are available to particular commands?
 
-To access context-sensitive help, simply enter a question mark (**?**) while typing in a command. Cisco IOS also does not require the entire command, argument, or keyword to be entered. The partial command entry must just be long enough to uniquely identify the full command. For instance, you can use **en** instead of entering the full command enable.
+To access context-sensitive help, simply enter a question mark (**?**) while typing in a command. Cisco IOS also does not require the entire command, argument, or keyword to be entered. The partial command entry must just be long enough to uniquely identify the full command. For instance, you can use `en` instead of entering the full command enable.
 
 To be sure the proper command is being entered, the tab key can also be used to complete the partial entry of a command, argument, or keyword.
