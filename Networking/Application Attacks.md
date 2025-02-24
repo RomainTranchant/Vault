@@ -1,8 +1,5 @@
 Here are some example of Application Attacks
 
-![|900x509](https://i.imgur.com/09BTIGi.jpeg)
-
-
 # Cross-Site Scripting
 
 Attacks carried out through web applications are becoming increasingly common. Threat actors exploit vulnerabilities in the coding of a web-based application to gain access to a database or server.
