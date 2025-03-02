@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Application Attacks.md",
+                "file": "Networking/Apple System Security Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Attacks"
+              "title": "Apple System Security Features"
             }
           }
         ]
@@ -200,9 +200,10 @@
   },
   "active": "eb90b3344e0e078d",
   "lastOpenFiles": [
+    "Networking/Application Attacks.md",
+    "Networking/Apple System Security Features.md",
     "Attachments/1698205911648.jpg",
     "Networking/Social Engineering Tactics.md",
-    "Networking/Application Attacks.md",
     "Attachments/impersonation.jpg",
     "Networking/Seven-Step Troubleshooting Process.md",
     "Networking/Help Desk Etiquette.md",
@@ -218,7 +219,6 @@
     "Networking/Packet Tracer 1.2.13 - Troubleshooting Challenge - Document the Network.md",
     "Attachments/image-27.png",
     "Attachments/image-26.png",
-    "Attachments/image-25.png",
     "Networking/Network Cloud Services and Applications.md",
     "Networking/Ping Command.md",
     "Networking/Ports And Protocols.md",
